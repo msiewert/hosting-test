@@ -1,0 +1,36 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-hostingtest-dev-221402-authRole",
+            "UnauthRoleArn": "arn:aws:iam::898699335825:role/amplify-hostingtest-dev-221402-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::898699335825:role/amplify-hostingtest-dev-221402-authRole",
+            "Region": "ca-central-1",
+            "DeploymentBucketName": "amplify-hostingtest-dev-221402-deployment",
+            "UnauthRoleName": "amplify-hostingtest-dev-221402-unauthRole",
+            "StackName": "amplify-hostingtest-dev-221402",
+            "StackId": "arn:aws:cloudformation:ca-central-1:898699335825:stack/amplify-hostingtest-dev-221402/648b3d30-6e83-11eb-9f2a-067dbb667260",
+            "AmplifyAppId": "dg8v7jbqcy0kb"
+        }
+    },
+    "test": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-hostingtest-test-221534-authRole",
+            "UnauthRoleArn": "arn:aws:iam::898699335825:role/amplify-hostingtest-test-221534-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::898699335825:role/amplify-hostingtest-test-221534-authRole",
+            "Region": "ca-central-1",
+            "DeploymentBucketName": "amplify-hostingtest-test-221534-deployment",
+            "UnauthRoleName": "amplify-hostingtest-test-221534-unauthRole",
+            "StackName": "amplify-hostingtest-test-221534",
+            "StackId": "arn:aws:cloudformation:ca-central-1:898699335825:stack/amplify-hostingtest-test-221534/9ae93d00-6e83-11eb-b097-0252cb16fc46",
+            "AmplifyAppId": "dg8v7jbqcy0kb"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "dg8v7jbqcy0kb",
+                    "type": "cicd"
+                }
+            }
+        }
+    }
+}
